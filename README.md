@@ -57,7 +57,7 @@ The results include:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/academic-paper-ranking.git
+   git clone https://github.com/git4sudo/Academic-Paper-Ranking-and-Recommendation-System.git
 2. Install required dependencies:
    pip install -r requirements.txt
 3. Download the arXiv dataset:
